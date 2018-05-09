@@ -11,5 +11,5 @@ Creating a new branch is quick22222.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
-Creating a new branch is quick AND simple.
->>>>>>> featurel
+Creating a new branch is quick AND simple. issue101
+>>>>>> featurel
